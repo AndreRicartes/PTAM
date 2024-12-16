@@ -1,0 +1,84 @@
+Vida Útil por Tipo de Imóvel
+
+Residenciais:
+|_Apartamentos (econômico, simples ou médio): 60 anos
+|_Apartamentos (fino ou luxo): 50 anos
+|_Casas de alvenaria: 65 anos
+|_Casas de madeira: 45 anos
+
+Comerciais:
+|_Bancos: 70 anos
+|_Escritórios (econômico ou simples): 70 anos
+|_Escritórios (médio): 60 anos
+|_Escritórios (fino ou luxo): 50 anos
+|_Lojas: 70 anos
+
+Industriais:
+|_Armazéns: 75 anos
+|_Galpões (rústico ou simples): 60 anos
+|_Galpões (médio ou superior): até 80 anos
+|_Fábricas: 50 anos
+
+Outros Tipos de Construções:
+|_Hotéis: 50 anos
+|_Teatros: 50 anos
+|_Construções rurais (gerais): 60 anos
+|_Silos: 75 anos
+
+
+Código  Classificação
+A       Novo
+B       Entre novo e regular
+C       Regular
+D       Entre regular e reparos simples
+E       Reparos simples
+F       Entre reparos simples e importantes
+G       Reparos importantes
+H       Entre reparos importantes e sem valor
+
+A
+NOVO - NÃO SOFREU NEM NECESSITA DE REPAROS.
+Com até seis meses de uso e sem danos.
+Não sofreu nem necessita de reparos.
+Edificação nova ou com reforma geral e substancial, com menos de 02 anos, que apresente apenas sinais de desgaste natural da pintura externa
+O -------- Ótimo
+
+B
+ENTRE NOVO E REGULAR - apesar de já submetido ao uso, apresenta-se nas condições de novo ou bem próximo disso. Não recebeu e nem necessita de reparos.
+Edificação nova ou com reforma geral e substancial, com menos de 02 anos, que apresente necessidade apenas de uma demão leve de pintura para recompor a sua aparência
+MB ------ Muito bom
+
+C
+REGULAR - requer ou recebeu reparos pequenos. Quando o objeto de serviço de recuperação ou de restauração recente deixou em condições próximas ao de novo.  Quando da existência de atividade de manutenção permanente e eficiente que mantém a aparência e/ou uso em condições de novo; Requer apenas limpeza sem utilização de mão de obra especializada para manter em boas condições de uso/aparência.
+Edificação semi-nova ou com reforma geral e substancial entre 02 e 05 anos, cujo estado geral possa ser recuperado apenas com reparos de eventuais fissuras superficiais localizadas e/ou pintura externa e interna.
+B --------- Bom
+
+D
+ENTRE REGULAR E REPAROS SIMPLES. Atividade de manutenção eventual ou periódica que mantém uma boa aparência e condições normais de uso, mas sem o aspecto de novo ou recuperação recente. Requer intervenções superficiais em pontos localizados para recuperação de desgastes naturais.  Pode requerer mão de obra especializada com uso de instrumentos especiais.
+Edificação semi-nova ou com reforma geral e substancial entre 02 e 05 anos, cujo estado geral possa ser recuperado com reparo de fissuras localizadas e superficiais e pintura externa e interna.
+I ------ Intermediário
+
+E
+REPAROS SIMPLES - Requer reparações simples. Requer intervenções em pontos localizados ou em partes/componentes definidos para restauração de aspectos e/ou funcionalidades originais. Necessitam de serviços generalizados de manutenção e limpeza. Implicam a realização de serviços superficiais ou reparos de partes ou componentes definidos/localizados com mão de obra especializada. Não comprometem a operação e a funcionalidade.
+Edificação cujo estado geral possa ser recuperado com pintura interna e externa, após reparos de fissuras superficiais generalizadas, sem recuperação do sistema estrutural. Eventualmente, revisão do sistema hidráulico e elétrico.
+R --------- Regular
+
+F
+ENTRE REPAROS SIMPLES E IMPORTANTES.
+Requer intervenções generalizadas na maior parte ou com profundidades em peças ou componentes específicos sob pena de comprometimento iminente de operação e segurança. Implica restauração ou recuperação com remoção/ substituição/ adição de elementos ou peças com mão de obra especializada.
+Edificação cujo estado geral possa ser recuperado com pintura interna e externa, após reparos de fissuras, e com estabilização e/ou recuperação localizada do sistema estrutural. As instalações hidráulicas e elétricas possam ser restauradas mediante a revisão e com substituição eventual de algumas peças desgastadas naturalmente. Eventualmente possa ser necessária a substituição dos revestimentos de pisos e paredes, de um, ou de outro compartimento. Revisão da impermeabilização ou substituição de telhas da cobertura.
+D --------- Deficiente
+
+G
+REPAROS IMPORTANTES - requer reparações importantes. Requer intervenções generalizadas e com profundidade em partes ou peças críticas sob o aspecto de estética, salubridade, segurança e funcionalidade.
+Implica restauração ou recuperação com remoção/ substituição/ adição de elementos ou peças com mão de obra especializada.
+Edificação cujo estado geral possa ser recuperado com pintura interna e externa, com substituição de panos de regularização da alvenaria, reparos de fissuras, com estabilização e/ou recuperação de grande parte do sistema estrutura. As instalações hidráulicas e elétricas possam ser restauradas mediante a substituição das peças aparentes. A substituição dos revestimentos de pisos e paredes, da maioria dos compartimentos. Substituição ou reparações importantes na impermeabilização ou no telhado.
+M --------- Mau
+
+H
+ENTRE REPAROS IMPORTANTES E SEM VALOR. Restauração total de elementos ou peças importantes. Degradação generalizada e com alto grau de exposição. Alto nível de comprometimento da funcionalidade, segurança e operação.
+Edificação cujo estado geral possa ser recuperado com estabilização e/ou recuperação do sistema estrutural, substituição da regularização da alvenaria, reparos de fissuras. Substituição das instalações hidráulicas e elétricas. Substituição dos revestimentos de pisos e paredes. Substituição da impermeabilização ou do telhado.
+MM ------ Muito mau
+
+I
+SEM VALOR - valor de demolição residual. Máquina/equipamento em estado de demolição. Sem condição de operação ou uso.

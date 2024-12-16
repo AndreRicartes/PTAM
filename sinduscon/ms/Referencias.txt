@@ -1,0 +1,45 @@
+Projetos Residenciais
+|_Padrão Baixo
+    |_R-1
+    |_PP-4
+    |_R-8
+    |_PIS
+|_Padrão Normal
+    |_R-1
+    |_PP-4
+    |_R-8
+    |_R-16
+|_Padrão Alto
+    |_R-1
+    |_R-8
+    |_R-16
+Projetos Comerciais (CAL-Comercial Andares Livres e CSL-Comercial Salas e Lojas)
+|_Padrão Normal
+    |_CAL-8
+    |_CSL-8
+    |_CSL-16
+|_Padrão Alto
+    |_CAL-8
+    |_CSL-8
+    |_CSL-16
+Projetos Galpão Industrial (GI) e Residência Popular (RP1Q)
+    |_RP1Q
+    |_GI
+
+Siglas
+R-1: Residência Unifamiliar
+RPQ1: Residência Popular
+PP-4: Prédio Popular
+CAL-8: Comercial Andares Livres
+R-8: Residência Multifamiliar
+CSL-8: Comercial Salas e Lojas
+R-16: Residência Multifamiliar
+CSL-16: Comercial Salas e Lojas
+PIS: Projeto de Interesse Social
+GI: Galpão Industrial
+
+{'Projetos Residesnciais': {'Padrão Baixo':['R-1', 'PP-4', 'R-8', 'PIS'], 'Padrão Normal':['R-1', 'PP-4', 'R-8', 'R-16'], 'Padrão Alto':['R-1', 'R-8', 'R-16']},'Projetos Comerciais (CAL-Comercial Andares Livres e CSL-Comercial Salas e Lojas)':{'Padrão normal':['CAL-8', 'CSL-8', 'CSL-16'], 'Padrão Alto':['CAL-8', 'CSL-8', 'CSL-16']}, {'Projetos Galpão Industrial (GI) e Residência Popular (RP1Q)':['RP1Q', 'GI']}  }
+
+
+
+
